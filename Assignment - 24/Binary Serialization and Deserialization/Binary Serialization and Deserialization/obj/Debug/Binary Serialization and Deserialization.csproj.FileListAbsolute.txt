@@ -1,0 +1,11 @@
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\bin\Debug\Binary Serialization and Deserialization.exe.config
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\bin\Debug\Binary Serialization and Deserialization.exe
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\bin\Debug\Binary Serialization and Deserialization.pdb
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\bin\Debug\Employee.dll
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\bin\Debug\Employee.pdb
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\obj\Debug\Binary Serialization and Deserialization.csproj.AssemblyReference.cache
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\obj\Debug\Binary Serialization and Deserialization.csproj.SuggestedBindingRedirects.cache
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\obj\Debug\Binary Serialization and Deserialization.csproj.CoreCompileInputs.cache
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\obj\Debug\Binary Serialization and Deserialization.csproj.CopyComplete
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\obj\Debug\Binary Serialization and Deserialization.exe
+F:\Day - 21\Assignment - 24\Binary Serialization and Deserialization\Binary Serialization and Deserialization\obj\Debug\Binary Serialization and Deserialization.pdb

@@ -1,0 +1,6 @@
+F:\Day - 21\Person\Person\bin\Debug\Person.dll
+F:\Day - 21\Person\Person\bin\Debug\Person.pdb
+F:\Day - 21\Person\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+F:\Day - 21\Person\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+F:\Day - 21\Person\Person\obj\Debug\Person.dll
+F:\Day - 21\Person\Person\obj\Debug\Person.pdb

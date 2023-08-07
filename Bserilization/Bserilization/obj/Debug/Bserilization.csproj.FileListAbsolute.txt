@@ -1,0 +1,11 @@
+F:\Day - 21\Bserilization\Bserilization\bin\Debug\Bserilization.exe.config
+F:\Day - 21\Bserilization\Bserilization\bin\Debug\Bserilization.exe
+F:\Day - 21\Bserilization\Bserilization\bin\Debug\Bserilization.pdb
+F:\Day - 21\Bserilization\Bserilization\bin\Debug\simplilib.dll
+F:\Day - 21\Bserilization\Bserilization\bin\Debug\simplilib.pdb
+F:\Day - 21\Bserilization\Bserilization\obj\Debug\Bserilization.csproj.AssemblyReference.cache
+F:\Day - 21\Bserilization\Bserilization\obj\Debug\Bserilization.csproj.SuggestedBindingRedirects.cache
+F:\Day - 21\Bserilization\Bserilization\obj\Debug\Bserilization.csproj.CoreCompileInputs.cache
+F:\Day - 21\Bserilization\Bserilization\obj\Debug\Bserilization.csproj.CopyComplete
+F:\Day - 21\Bserilization\Bserilization\obj\Debug\Bserilization.exe
+F:\Day - 21\Bserilization\Bserilization\obj\Debug\Bserilization.pdb

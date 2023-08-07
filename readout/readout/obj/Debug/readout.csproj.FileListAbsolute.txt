@@ -1,0 +1,11 @@
+F:\Day - 21\readout\readout\bin\Debug\readout.exe.config
+F:\Day - 21\readout\readout\bin\Debug\readout.exe
+F:\Day - 21\readout\readout\bin\Debug\readout.pdb
+F:\Day - 21\readout\readout\bin\Debug\simplilib.dll
+F:\Day - 21\readout\readout\bin\Debug\simplilib.pdb
+F:\Day - 21\readout\readout\obj\Debug\readout.csproj.AssemblyReference.cache
+F:\Day - 21\readout\readout\obj\Debug\readout.csproj.SuggestedBindingRedirects.cache
+F:\Day - 21\readout\readout\obj\Debug\readout.csproj.CoreCompileInputs.cache
+F:\Day - 21\readout\readout\obj\Debug\readout.csproj.CopyComplete
+F:\Day - 21\readout\readout\obj\Debug\readout.exe
+F:\Day - 21\readout\readout\obj\Debug\readout.pdb

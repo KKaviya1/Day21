@@ -1,0 +1,12 @@
+F:\Day - 21\Employee\Employee\bin\Debug\Employee.dll
+F:\Day - 21\Employee\Employee\bin\Debug\Employee.pdb
+F:\Day - 21\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+F:\Day - 21\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+F:\Day - 21\Employee\Employee\obj\Debug\Employee.dll
+F:\Day - 21\Employee\Employee\obj\Debug\Employee.pdb
+F:\Day - 21\Assignment - 24\Employee\Employee\bin\Debug\Employee.dll
+F:\Day - 21\Assignment - 24\Employee\Employee\bin\Debug\Employee.pdb
+F:\Day - 21\Assignment - 24\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+F:\Day - 21\Assignment - 24\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+F:\Day - 21\Assignment - 24\Employee\Employee\obj\Debug\Employee.dll
+F:\Day - 21\Assignment - 24\Employee\Employee\obj\Debug\Employee.pdb

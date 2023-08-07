@@ -1,0 +1,6 @@
+F:\Day - 21\simplilib\simplilib\bin\Debug\simplilib.dll
+F:\Day - 21\simplilib\simplilib\bin\Debug\simplilib.pdb
+F:\Day - 21\simplilib\simplilib\obj\Debug\simplilib.csproj.AssemblyReference.cache
+F:\Day - 21\simplilib\simplilib\obj\Debug\simplilib.csproj.CoreCompileInputs.cache
+F:\Day - 21\simplilib\simplilib\obj\Debug\simplilib.dll
+F:\Day - 21\simplilib\simplilib\obj\Debug\simplilib.pdb

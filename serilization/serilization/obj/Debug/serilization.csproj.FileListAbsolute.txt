@@ -1,0 +1,8 @@
+F:\Day - 21\serilization\serilization\bin\Debug\serilization.exe.config
+F:\Day - 21\serilization\serilization\bin\Debug\serilization.exe
+F:\Day - 21\serilization\serilization\bin\Debug\serilization.pdb
+F:\Day - 21\serilization\serilization\obj\Debug\serilization.csproj.AssemblyReference.cache
+F:\Day - 21\serilization\serilization\obj\Debug\serilization.csproj.SuggestedBindingRedirects.cache
+F:\Day - 21\serilization\serilization\obj\Debug\serilization.csproj.CoreCompileInputs.cache
+F:\Day - 21\serilization\serilization\obj\Debug\serilization.exe
+F:\Day - 21\serilization\serilization\obj\Debug\serilization.pdb
